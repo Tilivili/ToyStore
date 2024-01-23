@@ -63,10 +63,6 @@ public class Main {
         }
     }
 
-    //public static String input(String message) {
-    //    System.out.print(message);
-    //    return System.console().readLine().strip();
-    //}
     private static String input(String message) {
         Scanner in = new Scanner(System.in);
         System.out.print(message);
